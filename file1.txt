@@ -1,0 +1,5 @@
+python is
+           object oriented 
+           programming language
+           python is used
+           to developing the AI

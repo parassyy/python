@@ -1,0 +1,16 @@
+a={10,20,30,40,50}
+print("reading usig for loop")
+for x in a:
+    print(x,end=' ')
+print()
+print("reading using itrator")
+b=iter(a)
+e1=next(b)
+e2=next(b)
+e3=next(b)
+print(e1,e2,e3)
+e=enumerate(a)
+t1=next(e)
+t2=next(e)
+t3=next(e)
+print(t1,t2,t3)
